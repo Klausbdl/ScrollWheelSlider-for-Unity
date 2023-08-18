@@ -9,6 +9,7 @@ Unity script for Sliders to allow change the value using the scrool wheel.
 3) In the Event Trigger, add a Scroll event
 4) Click on the plus sign to add an element
 5) Drag the script onto the field below "Runtime Only" and change the function to dynamic "ChangeValue"
+6) Set the sensitivity to whatever value you want. Negative values will invert the scroll.
 Should look like this in the end:
 
 ![img 1](img%201.png)
